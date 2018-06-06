@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="textOfTheName">BonBonCo.</string>
+    <string name="servicesDescription">Repair and remodeling services \nin the MG area</string>
+    <string name="colorBlockText1">Mon-Sun 9AM-8PM</string>
+    <string name="email">bonbonco@gmail.com</string>
+    <string name="address">MG Marg,  QB,  226001</string>
+    <string name="pictureDescription">Iconic repairman in the sunglasses</string>
+</resources>
